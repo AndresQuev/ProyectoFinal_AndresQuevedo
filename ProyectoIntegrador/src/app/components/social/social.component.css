@@ -1,0 +1,10 @@
+img{
+    width: 50px;
+    margin: 5px;
+    transition: width 0.3s;
+    
+}
+
+img:hover{
+    width: 55px;
+}
